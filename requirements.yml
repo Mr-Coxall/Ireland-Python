@@ -1,10 +1,10 @@
-    name: my_env
-    channels:
-      - defaults
-    dependencies:
-      - numpy
-      - pandas
-      - matplotlib
-      - fredapi
-      - python-dotenv
-      - black
+name: my_env
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - fredapi
+  - python-dotenv
+  - black
